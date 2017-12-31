@@ -5,7 +5,7 @@ Sometimes architecting the database of your app can be the most difficult part. 
 
 These are high-level schemas you will have to convert over to your chosen schema. It's not specific to a particular database scheme.
 
-### What about schema-less NoSQL databases?
+## What about schema-less NoSQL databases?
 
 Deny it all you want, but even so-called schema-less NoSQL solutions like Firebase/MongoDB use some kind of schema (call it a structure). This is that.
 
